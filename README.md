@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-11 at 23 49 42_76ccf836](https://github.com/user-attachments/assets/f7fbe623-62a2-440e-9e5b-1cea64503c6a)# FakeBuster – AI-Powered Fake News Detection System
+# FakeBuster – AI-Powered Fake News Detection System
 
 ## ⭐ Overview  
 FakeBuster is an AI-powered fake news detection system designed to classify news articles as **Real** or **Fake** based on their textual content.  
