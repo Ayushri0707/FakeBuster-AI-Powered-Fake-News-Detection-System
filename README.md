@@ -87,7 +87,3 @@ This makes the system simple and interactive.
 
 ![WhatsApp Image 2025-12-11 at 23 50 10_718b77b1](https://github.com/user-attachments/assets/9ee0c934-7344-4919-80eb-e8c2aa71a8fb)
 
-
-
-## 🤝 Contributions  
-Contributions are welcome! Feel free to open issues or submit pull requests.
